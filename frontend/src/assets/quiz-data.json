@@ -1,0 +1,364 @@
+[
+  {
+    "questionId": 1,
+    "question": "Which of the following is correct about TypeScript?", 
+    "options": [
+        {
+            "answer": "Angular is based on TypeScript",
+            "isCorrect": false
+        },
+        {
+            "answer": "This is a superset of JavaScript.",
+            "isCorrect": false
+        },
+        {
+            "answer": "TypeScript is maintained by Microsoft.",
+            "isCorrect": false
+        },
+        {
+            "answer": "All of the above.",
+            "isCorrect": true
+        }
+    ]
+  },
+  {
+    "questionId": 2,
+    "question": "What does AOT stand for?", 
+    "options": [
+        {
+            "answer": "ahead-of-time compilation",
+            "isCorrect": true
+        },
+        {
+            "answer": "Angular Object Templates",
+            "isCorrect": false
+        },
+        {
+            "answer": "Both",
+            "isCorrect": false
+        },
+        {
+            "answer": "None",
+            "isCorrect": false
+        }
+    ]
+  },
+  {
+    "questionId": 3,
+    "question": "Which of the following is not a hook application life cycle?", 
+    "options": [
+        {
+            "answer": "ngOnChanges",
+            "isCorrect": false
+        },
+        {
+            "answer": "ngViewStart",
+            "isCorrect": true
+        },
+        {
+            "answer": "ngOnInit",
+            "isCorrect": false
+        },
+        {
+            "answer": "None of above",
+            "isCorrect": false
+        }
+    ]
+  },
+  {
+    "questionId": 4,
+    "question": "What is the decorator used for configuring your module class", 
+    "options": [
+        {
+            "answer": "@NgApp",
+            "isCorrect": false
+        },
+        {
+            "answer": "@NgModule",
+            "isCorrect": true
+        },
+        {
+            "answer": "Both",
+            "isCorrect": false
+        },
+        {
+            "answer": "None of above",
+            "isCorrect": false
+        }
+    ]
+  },
+  {
+    "questionId": 5,
+    "question": "Router is part of which of the following module", 
+    "options": [
+        {
+            "answer": "@angular/core",
+            "isCorrect": false
+        },
+        {
+            "answer": "@angular/router",
+            "isCorrect": true
+        },
+        {
+            "answer": "Both",
+            "isCorrect": false
+        },
+        {
+            "answer": "None of above",
+            "isCorrect": false
+        }
+    ]
+  },
+  {
+    "questionId": 6,
+    "question": "How many instance methods exist in the Math class?",
+    "options": [
+            {
+                "answer": "0",
+                "isCorrect": true
+            },
+            {
+                "answer": "1",
+                "isCorrect": false
+            },
+            {
+                "answer": "2",
+                "isCorrect": false
+            },
+            {
+                "answer": "3",
+                "isCorrect": false
+            }
+    ]
+    },
+    {
+    "questionId": 7,
+    "question": "What keyword can we use when creating objects to match a parameter to a property?",
+    "options": [
+            {
+                "answer": "new",
+                "isCorrect": false
+            },
+            {
+                "answer": "call",
+                "isCorrect": false
+            },
+            {
+                "answer": "this",
+                "isCorrect": true
+            }
+    ]
+    },
+    {
+    "questionId": 8,
+    "question": "What does the acronym DOM stand for?",
+    "options": [
+    {
+                "answer": "Document Object Model",
+                "isCorrect": true
+            },
+            {
+                "answer": "Document Operation Model",
+                "isCorrect": false
+            },
+            {
+                "answer": "Domain Operation Model",
+                "isCorrect": false
+            },
+            {
+                "answer": "Domain Object Model",
+                "isCorrect": false
+            }
+    ]
+    },
+    {
+    "questionId": 9,
+    "question": "What are individual entries within the DOM known as?",
+    "options": [
+            {
+                "answer": "elements",
+                "isCorrect": false
+            },
+            {
+                "answer": "nodes",
+                "isCorrect": true
+            },
+            {
+                "answer": "spurs",
+                "isCorrect": false
+            },
+            {
+                "answer": "tags",
+                "isCorrect": false
+            }
+    ]
+    },
+    {
+    "questionId": 10,
+    "question": "Web browsers provide which property that allows developers to modify the DOM?",
+    "options": [
+            {
+                "answer": "amendHTML",
+                "isCorrect": false
+            },
+            {
+                "answer": "changeHTML",
+                "isCorrect": false
+            },
+            {
+                "answer": "innerHTML",
+                "isCorrect": true
+            },
+            {
+                "answer": "outerHTML",
+                "isCorrect": false
+            }
+    ]
+    },
+    {
+    "questionId": 11,
+    "question": "JavaScript is a multi-threaded language?",
+    "options": [
+            {
+                "answer": "true",
+                "isCorrect": false
+            },
+            {
+                "answer": "false",
+                "isCorrect": true
+            }
+    ]
+    },
+    {
+    "questionId": 12,
+    "question": "What is the result of the statement? console.log(typeof(42))",
+    "options": [
+            {
+                "answer": "float",
+                "isCorrect": false
+            },
+            {
+                "answer": "value",
+                "isCorrect": false
+            },
+            {
+                "answer": "number",
+                "isCorrect": true
+            },
+            {
+                "answer": "integer",
+                "isCorrect": false
+            }
+    ]
+    },
+    {
+    "questionId": 13,
+    "question": "Which of the following is an advantage of using JavaScript?",
+    "options": [
+            {
+                "answer": "Less server interaction",
+                "isCorrect": false
+            },
+            {
+                "answer": "Immediate feedback to the visitors",
+                "isCorrect": false
+            },
+            {
+                "answer": "Increased interactivity",
+                "isCorrect": false
+            },
+            {
+                "answer": "All of the above.",
+                "isCorrect": true
+            }
+    ]
+    },
+    {
+    "questionId": 14,
+    "question": "Which built-in method adds one or more elements to the end of an array and returns the new length of the array?",
+    "options": [
+            {
+                "answer": "put()",
+                "isCorrect": false
+            },
+            {
+                "answer": "push()",
+                "isCorrect": true
+            },
+            {
+                "answer": "None of the above",
+                "isCorrect": false
+            },
+            {
+                "answer": "last()",
+                "isCorrect": false
+            }
+    ]
+    },
+    {
+    "questionId": 15,
+    "question": "Which of the following function of String object combines the text of two strings and returns a new string?",
+    "options": [
+    {
+                "answer": "add()",
+                "isCorrect": false
+            },
+            {
+                "answer": "merge()",
+                "isCorrect": false
+            },
+            {
+                "answer": "concat()",
+                "isCorrect": true
+            },
+            {
+                "answer": "append()",
+                "isCorrect": false
+            }
+    ]
+    },
+    {
+        "questionId": 16,
+        "question": "Inside which HTML element do we put the JavaScript?",
+        "options": [
+                {
+                    "answer": "<script>",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "<javascript>",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "<scripting>",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "<js>",
+                    "isCorrect": false
+                }
+        ]
+        },
+        {
+            "questionId": 17,
+            "question": "When creating a Number object, what do passed values that can't be converted return?",
+            "options": [
+                    {
+                        "answer": "isNan",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "Nan",
+                        "isCorrect": true
+                    },
+                    {
+                        "answer": "null",
+                        "isCorrect": false
+                    },
+                    {
+                        "answer": "undefined",
+                        "isCorrect": false
+                    }
+            ]
+            }
+]
